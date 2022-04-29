@@ -1,5 +1,5 @@
 # hello-word
-a hello word project
+A hello word project
 Hi everyone 
 
 I'm jospin  a junior webdevelloper 
